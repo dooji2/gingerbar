@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 42,
+    "min_format": 42,
+    "max_format": 75,
+    "supported_formats": [42, 64],
+    "description": "Gingerbread your UI! (v0.1.0)"
+  }
+}
